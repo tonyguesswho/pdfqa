@@ -1,3 +1,4 @@
+
 # pdfqa
 #This is a Python application that allows you to load a Documet and ask questions about it using natural language.
 # Technologies used
@@ -24,3 +25,5 @@
 
 # Running application
 Run using `streamlit run app.py`
+
+<img width="843" alt="Screenshot 2023-05-24 at 18 01 52" src="https://github.com/tonyguesswho/pdfqa/assets/19865565/3b53c68b-e969-4498-b246-d2a1068ff688">
