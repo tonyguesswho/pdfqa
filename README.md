@@ -1,6 +1,6 @@
 
 # pdfqa
-#This is a Python application that allows you to load a Documet and ask questions about it using natural language.
+#This is a Python application that allows you to load a Document and ask questions about it using natural language.
 # Technologies used
 - python
 - Langchain
